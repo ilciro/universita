@@ -1,0 +1,19 @@
+intro 20
+processi 26
+scheduling 11
+vfs 29
+memoria 27
+synch 21
+eventi 18
+tot 152
+
+
+senza windows
+intro 20
+processi 18 ma senza exec 13
+scheduling 11
+vfs 21
+memoria 22
+synch 16
+event 9
+tot 112
